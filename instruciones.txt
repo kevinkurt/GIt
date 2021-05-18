@@ -1,0 +1,2 @@
+1. se crea la carpeta, ya con la carpeta creada dentro del bach de git creamos el repositorio con el comando git init
+2. en las notas podemos descargar cmder que nos sirve normalmente para unir power shell, linux y ya
